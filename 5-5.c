@@ -13,7 +13,7 @@ int main()
 	char af[128] = "ghijkl";
 	
 	char cm1[128] = "abcd";
-	char cm2[128] = "abdd";
+	char cm2[128] = "abcd";
 
 	strncpy01(s, input, 3);
 	strcat01(be, af,3);
