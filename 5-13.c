@@ -5,6 +5,7 @@
 #define MAXLEN 1000
 #define MAXLINE 1000
 #define ALLOCSIZE 10000
+
 char *alloc(int);
 char *lineptr[MAXLINES];
 
